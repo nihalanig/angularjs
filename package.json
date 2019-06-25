@@ -1,0 +1,22 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihalanig/angularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihalanig/angularjs/issues"
+  },
+  "homepage": "https://github.com/nihalanig/angularjs#readme",
+  "dependencies": {
+    "bower": "^1.8.8"
+  }
+}
