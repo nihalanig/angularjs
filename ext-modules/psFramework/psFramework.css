@@ -1,8 +1,48 @@
 .ps-title-bar{
     background-color: white;
+    padding: 0 20px;
 }
 
 .ps-icon{
     width:80px;
     height:80px;
+    vertical-align: top;
+}
+
+.ps-title-area{
+    display: inline-block;
+}
+
+.ps-logo-title{
+    font-size: 18px;
+    font-weight: 800;
+    margin-top:18px;
+}
+
+.ps-logo-subtitle{
+    font-size: 12px;
+    font-style: italic;
+    margin-top:-20px;
+}
+
+.ps-right-side-controls{
+ line-height: 89px;
+}
+
+.ps-right-side-controls > div {
+    text-align: center;
+}
+
+.ps-logo-area{
+    text-align: center;
+        }
+
+@media screen and (min-width:768px){
+    
+    .ps-logo-area{
+text-align: left;
+    }
+    .ps-right-side-controls{
+text-align: right;
+    }
 }

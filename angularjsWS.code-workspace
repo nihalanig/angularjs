@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "C:\\ngf1"
+			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
