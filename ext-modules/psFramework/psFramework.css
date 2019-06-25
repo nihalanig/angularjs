@@ -1,3 +1,8 @@
 .ps-title-bar{
     background-color: white;
 }
+
+.ps-icon{
+    width:80px;
+    height:80px;
+}
